@@ -1,0 +1,4 @@
+"0","# It's all done :) no need to anything manually, just need to rename the columns so they match the names you gave them so the rest of the code works "
+"0","majors_taller <- majors %>%"
+"0","  rename(Major = field_detailed, "
+"0","         Field.of.study = field_broad)"
